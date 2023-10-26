@@ -1,0 +1,20 @@
+C:\Users\Yenier\AppData\Local\Temporary Projects\NumerosALetras\bin\Debug\NumerosALetras.exe.config
+D:\Escritorio\NumerosALetras\NumerosALetras\bin\Debug\NumerosALetras.exe.config
+D:\Escritorio\NumerosALetras\NumerosALetras\bin\Debug\NumerosALetras.exe
+D:\Escritorio\NumerosALetras\NumerosALetras\bin\Debug\NumerosALetras.pdb
+D:\Escritorio\NumerosALetras\NumerosALetras\obj\Debug\NumerosALetras.csprojResolveAssemblyReference.cache
+D:\Escritorio\NumerosALetras\NumerosALetras\obj\Debug\NumerosALetras.Form1.resources
+D:\Escritorio\NumerosALetras\NumerosALetras\obj\Debug\NumerosALetras.Properties.Resources.resources
+D:\Escritorio\NumerosALetras\NumerosALetras\obj\Debug\NumerosALetras.csproj.GenerateResource.Cache
+D:\Escritorio\NumerosALetras\NumerosALetras\obj\Debug\NumerosALetras.exe
+D:\Escritorio\NumerosALetras\NumerosALetras\obj\Debug\NumerosALetras.pdb
+C:\Users\HP\Desktop\Hans Quispe\Actualizacion Tecnologica\programas\NumerosALetras\NumerosALetras\NumerosALetras\bin\Debug\NumerosALetras.exe.config
+C:\Users\HP\Desktop\Hans Quispe\Actualizacion Tecnologica\programas\NumerosALetras\NumerosALetras\NumerosALetras\bin\Debug\NumerosALetras.exe
+C:\Users\HP\Desktop\Hans Quispe\Actualizacion Tecnologica\programas\NumerosALetras\NumerosALetras\NumerosALetras\bin\Debug\NumerosALetras.pdb
+C:\Users\HP\Desktop\Hans Quispe\Actualizacion Tecnologica\programas\NumerosALetras\NumerosALetras\NumerosALetras\obj\Debug\NumerosALetras.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Hans Quispe\Actualizacion Tecnologica\programas\NumerosALetras\NumerosALetras\NumerosALetras\obj\Debug\NumerosALetras.Form1.resources
+C:\Users\HP\Desktop\Hans Quispe\Actualizacion Tecnologica\programas\NumerosALetras\NumerosALetras\NumerosALetras\obj\Debug\NumerosALetras.Properties.Resources.resources
+C:\Users\HP\Desktop\Hans Quispe\Actualizacion Tecnologica\programas\NumerosALetras\NumerosALetras\NumerosALetras\obj\Debug\NumerosALetras.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Hans Quispe\Actualizacion Tecnologica\programas\NumerosALetras\NumerosALetras\NumerosALetras\obj\Debug\NumerosALetras.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Hans Quispe\Actualizacion Tecnologica\programas\NumerosALetras\NumerosALetras\NumerosALetras\obj\Debug\NumerosALetras.exe
+C:\Users\HP\Desktop\Hans Quispe\Actualizacion Tecnologica\programas\NumerosALetras\NumerosALetras\NumerosALetras\obj\Debug\NumerosALetras.pdb
